@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 # Hi, I'm Anish 👋<br><br>I'm a B.Tech Computer Science (AI & ML) student.<br><br>Currently working on:<br><br>* Java<br>* Data Structures & Algorithms<br>* Full-Stack Development<br>* Machine Learning<br><br>Most of the repositories here are projects I've built while learning, along with my DSA practice and coursework. I'm using GitHub to keep track of my progress and improve my coding skills through consistent practice.<br>
 
 
